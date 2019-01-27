@@ -26,7 +26,7 @@
 #pragma competitionControl(Competition)
 
 #include "Vex_Competition_Includes.c"
-#include "Third.h"
+#include "main.h"
 
 /////////////////////////////////////////////////////////////////////////////
 //
